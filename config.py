@@ -3,30 +3,30 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "34724970"))
+API_ID = int(os.environ.get("API_ID", "33029767"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","f240eae7c60e8e30c17203ab0e052f7e")
+API_HASH = os.environ.get("API_HASH","5d897bed11bc8b062a12f6c1c3c5360a")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8707483940:AAHAGkWV5mrT-RqsS4H-HdPVh9MbfbcT-Os")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8890250304:AAFCjvAOVxdJerTKar8PWVTY0fzNnhsaJP4")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Ak_course_extractor_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@sonylivDownloadBot")
 BOT_TEXT = "ANUJ EXTRACTOR"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7892805795"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "8980576385"))
 # ------------------------------------------------
 SUDO_USERS = [int(x) for x in os.environ.get("SUDO_USERS", str(OWNER_ID)).replace(",", " ").split() if x.strip()]
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003515041061"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1004457510571"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003758676689")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1004401290975")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003515041061"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1004457510571"))
 # -----------------------------------------------
-join = '<a href="https://t.me/anujedits76">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/anujedits97">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
