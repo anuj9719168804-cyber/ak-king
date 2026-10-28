@@ -1,0 +1,42 @@
+# --- Telegram ---
+pyrogram==2.0.106
+pyromod==1.5
+tgcrypto
+python-telegram-bot==20.8
+# --- Database ---
+motor
+pymongo
+# --- Networking / scraping ---
+aiohttp
+aiofiles
+requests
+httpx
+cloudscraper
+beautifulsoup4
+# --- Crypto / auth ---
+pycryptodome
+PyJWT
+# --- Downloading / media ---
+yt-dlp
+pytube
+m3u8
+ffmpeg-python
+hachoir
+mutagen
+pyaes
+PySocks
+websockets
+# --- PDF / watermark (newbot uploader) ---
+PyPDF2
+reportlab
+# --- Web / misc ---
+flask
+gunicorn
+python-dotenv
+pytz
+colorama
+termcolor
+tqdm
+psutil
+speedtest-cli
+async-lru
