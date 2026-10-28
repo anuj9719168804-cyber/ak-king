@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 FINAL EXTRACTOR COMPLETE
+# 📚 AK EXTRACTOR BOT
 
 **All-in-one Telegram bot: extract course link lists, convert TXT ⇄ HTML, download and upload to Telegram.**
 
