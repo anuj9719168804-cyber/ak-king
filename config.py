@@ -7,9 +7,9 @@ API_ID = int(os.environ.get("API_ID", "33029767"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","5d897bed11bc8b062a12f6c1c3c5360a")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8890250304:AAFCjvAOVxdJerTKar8PWVTY0fzNnhsaJP4")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8614682955:AAHG1zAQyKs5RgMJmWoujXqKFKXPVwMYRPE")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@sonylivDownloadBot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@flezendownbot")
 BOT_TEXT = "ANUJ EXTRACTOR"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "8980576385"))
